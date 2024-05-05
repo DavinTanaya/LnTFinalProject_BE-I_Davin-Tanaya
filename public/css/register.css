@@ -1,0 +1,9 @@
+.navnav {
+    padding: 1rem;
+    display: flex;
+    justify-content: end;
+}
+
+.formulir {
+    padding: 1rem;
+}
